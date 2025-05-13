@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+The images below outline the lifecycle of a ticket-from intake to resolution- within the open-source help desk ticketing system, osTicket.
+<br />
 
 
 
@@ -39,7 +40,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   
 <img src="https://i.imgur.com/qZMrW52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Item two is showing an image of a ticket that was created by an end user.
+ 
+"The image above shows an end user creating a ticket regaring an issue with the online banking system."
 
 
 </p>
@@ -49,7 +51,7 @@ Item two is showing an image of a ticket that was created by an end user.
 </p>
 <p>
 
-Image above is showing an open ticket that was created by and end user because employee are having an issue with the online banking system.
+"The image above shows an open ticket created by an end user regarding an issue employee are experiencing with the online banking system."
 </p>
 <br />
 
@@ -57,7 +59,7 @@ Image above is showing an open ticket that was created by and end user because e
 <img src="https://i.imgur.com/M4OWQSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Item is showing the agent Jane Doe working the tcket to resolved the issue the online banking team has.
+"The above image shows the agent, Jane Doe, working on the ticket to resolve the issue  reported by the online banking team."
 </p>
 <br />
 
@@ -65,4 +67,4 @@ Item is showing the agent Jane Doe working the tcket to resolved the issue the o
 
 </p>
 <br />
-Item is showing an image of the online banking issue resolved and the ticket is being closed.
+"This item shows an image of the online banking issue being resolved and the ticket being closed"
