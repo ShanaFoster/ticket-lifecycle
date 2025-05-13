@@ -30,10 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
@@ -42,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   
 <img src="https://i.imgur.com/qZMrW52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Item two is showing an image of an user ticket being created.
+Item two is showing an image of a ticket that was created by an end user.
 
 
 </p>
@@ -52,7 +49,7 @@ Item two is showing an image of an user ticket being created.
 </p>
 <p>
 
-Image above is showing and open ticket and a user created because employee are having an issue with the online banking. 
+Image above is showing an open ticket that was created by and end user because employee are having an issue with the online banking system.
 </p>
 <br />
 
@@ -60,7 +57,7 @@ Image above is showing and open ticket and a user created because employee are h
 <img src="https://i.imgur.com/M4OWQSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Item is showing the the agent Jane working the tcket to resolved the issue the online banking team has.
+Item is showing the agent Jane Doe working the tcket to resolved the issue the online banking team has.
 </p>
 <br />
 
