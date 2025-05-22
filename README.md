@@ -41,7 +41,7 @@ This tutorial outlines the lifecycle of a ticket-from intake to resolution- with
 <img src="https://i.imgur.com/qZMrW52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
  
-"The image above shows an end user creating a ticket regaring an issue with the online banking system."
+The image above shows an end user creating a ticket regaring an issue with the online banking system.
 
 
 </p>
@@ -51,7 +51,7 @@ This tutorial outlines the lifecycle of a ticket-from intake to resolution- with
 </p>
 <p>
 
-"The image above shows an open ticket created by an end user regarding an issue employee are experiencing with the online banking system."
+The image above shows an open ticket created by an end user regarding an issue employee are experiencing with the online banking system.
 </p>
 <br />
 
@@ -59,7 +59,7 @@ This tutorial outlines the lifecycle of a ticket-from intake to resolution- with
 <img src="https://i.imgur.com/M4OWQSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-"The above image shows the agent, Jane Doe, working on the ticket to resolve the issue  reported by the online banking team."
+The above image shows the agent, Jane Doe, working on the ticket to resolve the issue  reported by the online banking team.
 </p>
 <br />
 
@@ -67,4 +67,4 @@ This tutorial outlines the lifecycle of a ticket-from intake to resolution- with
 
 </p>
 <br />
-"This item shows an image of the online banking issue being resolved and the ticket being closed"
+This item shows an image of the online banking issue being resolved and the ticket being closed.
