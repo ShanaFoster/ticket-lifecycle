@@ -36,9 +36,14 @@ This tutorial outlines the lifecycle of a ticket-from intake to resolution- with
 <br />
 
 <p>
-<img src="https://i.imgur.com/vNaAd1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
-<img src="https://i.imgur.com/qZMrW52.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/d7f748fd-2001-45e0-8cac-062712791ccc)
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/73846d39-78c3-453a-b098-8c743cf2542b)
+
+
 
  
 The image above shows an end user creating a ticket regaring an issue with the online banking system.
@@ -46,7 +51,8 @@ The image above shows an end user creating a ticket regaring an issue with the o
 
 </p>
 <br />
-<img src="https://i.imgur.com/r9bMqof.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/user-attachments/assets/9c6a18b7-77a0-4665-94a4-cd55e9d876a7)
 
 </p>
 <p>
@@ -56,14 +62,25 @@ The image above shows an open ticket created by an end user regarding an issue e
 <br />
 
 <p>
-<img src="https://i.imgur.com/M4OWQSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+!![image](https://github.com/user-attachments/assets/e1482e95-9484-44af-a22c-ebaf12aaa3a7)
+
 </p>
+<br />
+
 <p>
+
+![image](https://github.com/user-attachments/assets/80260d62-1f52-4b8c-a74e-9382b716d1e4)
+</p>
+<br />
+
+<p>
+
 The above image shows the agent, Jane Doe, working on the ticket to resolve the issue  reported by the online banking team.
 </p>
 <br />
 
-<img src="https://i.imgur.com/9aLwwlW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/77839c18-aeeb-4097-a2ec-f47c9558ed9d)
 
 </p>
 <br />
